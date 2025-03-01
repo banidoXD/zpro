@@ -1,1 +1,4 @@
-deploy_email=deploy@comunidadezdg.com.br
+deploy_password=LuOliverzpro
+pg_pass=LuOliverzpro
+redis_pass=LuOliverzpro
+deploy_email=brunos.xd3@gmail.com
